@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio03 {
 	
+	//Instancio el objeto input de la clase Scanner
 	private static Scanner input = new Scanner(System.in);
 
 	public static void main(String[] args) {
