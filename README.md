@@ -1,1 +1,1 @@
-# Ejercicios resueltos TP01 de Taller de Herramientas de Programacion - ORT Belgrano
+# Ejercicios resueltos TP02 de Taller de Herramientas de Programacion - ORT Belgrano
